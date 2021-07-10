@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mradul568
-- 👀 I’m interested in Python(Django,Flask),PHP(Codeigniter,Laravel),Javascript(Jquery),Ajex.
+- 👀 I’m interested in Python(Django,Flask),PHP(Codeigniter,Laravel),Javascript(Jquery),Ajax.
 - 🌱 I’m currently learning Python(Flask),PHP(Laravel)
 - 📫 How to reach me mradul-portfolio.studytap.in
 
